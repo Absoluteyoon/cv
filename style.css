@@ -1,0 +1,60 @@
+
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+
+  
+}
+
+body {
+  background-color: rgb(23, 39, 31);
+  
+
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+.herotext {
+text-align: center;  
+margin-top: 355px;
+
+
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  
+} 
+
+.hero-full-container {
+  background-image: url(images/hanna.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.myborder {
+  border: 20px solid black;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+
+.NavBar {
+  
+  position: absolute; 
+  width: 98%;
+   
+  z-index: 9999;
+}
+

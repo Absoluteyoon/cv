@@ -1,0 +1,44 @@
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  
+    
+  }
+  
+  body {
+    background-color: rgba(23, 39, 31, 0.315);
+    
+  
+  }
+  
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+
+
+
+  .NavBar {
+  
+    position: absolute; 
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+     
+    z-index: 9999;
+  }
+
+  p, h1 {
+      color: white;
+      text-decoration: none;
+      font-family: 'Raleway', sans-serif;
+  }
+
+  .imgme {
+      text-align: center;
+  }
